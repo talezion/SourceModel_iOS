@@ -336,7 +336,7 @@ pod 'SourceModel'
 
 ## Author
 
-Tal Zion, tal.zion@stanwood.de
+Tal Zion, talezion@gmail.com
 
 ## License
 
